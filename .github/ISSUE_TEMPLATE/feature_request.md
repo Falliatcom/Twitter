@@ -1,8 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: Falliatcom
+labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,
+  invalid, question
 assignees: ''
 
 ---
